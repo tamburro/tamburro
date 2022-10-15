@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamburro
 - 👀 I’m interested in UI Design
-- 🌱 I’m currently learning TailwindCSS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
